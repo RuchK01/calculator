@@ -14,8 +14,9 @@ echo "its 1"
 
 #division function 
 w=8/2
+echo "its 4"
 
-
-
-
+#multiplication 
+r=6*7
+echo "its 42"
 
