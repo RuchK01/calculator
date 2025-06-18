@@ -12,4 +12,10 @@ echo "its 7"
 u=6-7 
 echo "its 1"
 
+#division function 
+w=8/2
+
+
+
+
 
